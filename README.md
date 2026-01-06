@@ -1,4 +1,4 @@
-Smart Grocery Shopping Assistant
+**Smart Grocery Shopping Assistant**
 
 An AI-based mini project developed as part of AI Techniques and Agent Technology to help users manage grocery shopping more efficiently with smart suggestions, healthier alternatives, and expiry reminders.
 
